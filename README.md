@@ -24,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mkyjjk07&show_icons=true&theme=tokyonight&hide_border=true" alt="mkyjjk07 GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkyjjk07&theme=tokyonight&hide_border=true" alt="mkyjjk07 streak" />
-</p>
-
 ---
 
 ### 🚀 Current Project
@@ -35,17 +31,6 @@
 > A PHP & MySQL based web app for managing pet adoptions, featuring user roles like adopter, guest, and volunteer, with admin control and pet management.
 
 📂 [View Repository](https://github.com/mkyjjk07/Pet_Adoption_System)
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <p align="center">💙 Thanks for visiting my profile!</p>
 <p align="center">⭐ Feel free to check out my projects or leave a star if you like them.</p>
