@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm MK</h1>
+<h3 align="center">Web Developer in Progress | Learning • Building • Improving</h3>
 
-<!--
-**mkyjjk07/mkyjjk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 💡 I’m currently building **Pet Adoption System** using **PHP + MySQL**
+- 🌱 I’m learning **ASP.NET (VB)** and improving my **front-end design** skills
+- 🧩 I like turning simple ideas into clean and working web pages
+- 🎯 My current goal: **deploy my first full-stack project online**
+- 🕓 I spend most of my time experimenting with code, layouts, and logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,vscode,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkyjjk07&show_icons=true&theme=tokyonight&hide_border=true" alt="mkyjjk07 GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkyjjk07&theme=tokyonight&hide_border=true" alt="mkyjjk07 streak" />
+</p>
+
+---
+
+### 🚀 Current Project
+**🧩 Pet Adoption System**
+> A PHP & MySQL based web app for managing pet adoptions, featuring user roles like adopter, guest, and volunteer, with admin control and pet management.
+
+📂 [View Repository](https://github.com/mkyjjk07/Pet_Adoption_System)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💙 Thanks for visiting my profile!</p>
+<p align="center">⭐ Feel free to check out my projects or leave a star if you like them.</p>
+
