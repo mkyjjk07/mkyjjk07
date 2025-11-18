@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 💡 I’m currently building **Pet Adoption System** using **PHP + MySQL**
-- 🌱 I’m learning **ASP.NET (VB)** and improving my **front-end design** skills
+- 🌱 I’m learning and improving my **front-end design** skills
 - 🧩 I like turning simple ideas into clean and working web pages
 - 🎯 My current goal: **deploy my first full-stack project online**
 - 🕓 I spend most of my time experimenting with code, layouts, and logic
